@@ -10,6 +10,9 @@
 - 💬 Ask me about **Weave Mod Loader!**
 
 <h3 align="left">Connect with me:</h3>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/636268679767654430?hideStatus=true&showDisplayName=true)](https://discord.com/users/636268679767654430)
+
 <p align="left">
 </p>
 
