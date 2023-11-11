@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syz66&label=Profile%20views&color=0e75b6&style=flat" alt="syz66" /> </p>
 
-- 🌱 I’m currently learning.
-- 🔭 I’m currently working.
-- 💬 Don't talk to me.
+- 🌱 I’m currently learning Java and Kotlin.
+- 🔭 I'm currently working on Minecraft mods!
+- 💬 Contact me on Discord!
+
 
 <h3 align="left">Connect with me:</h3>
 
