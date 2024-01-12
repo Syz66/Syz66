@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syz66&label=Profile%20views&color=0e75b6&style=flat" alt="syz66" /></p>
 
-- ☕️ Self-taught Java developer
+- ☕️ Self-taught Java developer.
 - 💬 Contact me on Discord!
 
 <h3 align="left">Connect with me:</h3>
