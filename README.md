@@ -1,11 +1,13 @@
-<h1 align="left">👋 Hi, I'm Syz</h1>
-<h3 align="left">Just another novice developer</h3>
+# 👋 Hi, I'm Syz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syz66&label=Profile%20views&color=ED439C&style=for-the-badge" alt="syz66" /></p>
+### About Me
+- 🚀 Novice self-taught developer.
+- ☕️ Enthusiast for all things Java.
+- 💬 Connect with me on Discord!
 
-- ☕️ Self-taught Java developer.
-- 💬 Contact me on Discord!
+### GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=syz66&label=Profile%20views&color=ED439C&style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-
+### Connect with me
+[![Discord](https://img.shields.io/badge/Discord-Syz%236969-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/636268679767654430)
 [![Discord Presence](https://lanyard.cnrad.dev/api/636268679767654430?hideStatus=true&showDisplayName=true)](https://discord.com/users/636268679767654430)
