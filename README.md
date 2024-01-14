@@ -10,4 +10,5 @@
 
 ### Connect with me
 [![Discord](https://img.shields.io/badge/Discord-Syz%236969-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/636268679767654430)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/636268679767654430?hideStatus=true&showDisplayName=true)](https://discord.com/users/636268679767654430)
