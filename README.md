@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Syz</h1>
-<h3 align="left">Just another self-taught developer</h3>
+<h3 align="left">Just another novice developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syz66&label=Profile%20views&color=ED439C&style=for-the-badge" alt="syz66" /></p>
 
