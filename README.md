@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Syz
+# 👋 Hi, I'm Syz <img align="right" width="40px" style="border-radius: 25%;" alt="Syz66" src="https://raw.githubusercontent.com/Syz66/Syz66/main/profiles/6.png"/>
 ![Profile Views](https://komarev.com/ghpvc/?username=syz66&label=Profile%20views&color=ED439C&style=for-the-badge)
 
 ### About Me
-- 🚀 Novice developer.
+- ☕ Java & Kotlin developer.
+- 🏳️‍⚧️ Transgender.
